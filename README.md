@@ -2,6 +2,8 @@
 www.dio.me
 
 ## Desafio de projeto
+!RESOLVIDO  
+
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
 ## Contexto
@@ -20,3 +22,7 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Resolução
+
+O código foi completado seguindo as instruções e aulas ministradas na Dio, no caso usando as regras de orientação a objetos, Herança, Abstração e outros. Além disso foi adicionado uma nova classe abstrata que descreve o modelo do celular, e adicionamos mais uma classe a Samsung que também herda de Smartphone como as outras.
